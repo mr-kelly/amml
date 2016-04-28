@@ -26,12 +26,12 @@ string[] arr = new string[]
 ## Map
 ```
 # This is an amml
-k:123, j:word, t:a sentence
+k:123, j:word, t:a sentence, p:"sentence with , it's ok"
 ```
 
 ```python
 # AMML -> "k:123, j:word, t:a sentence"
-map_ = {"k":"123", "j":"word", "t":"sentence"}
+map_ = {"k":"123", "j":"word", "t":"sentence", "p":"sentence with , it's ok"}
 ```
 
 ### Array & Map Mix
@@ -43,5 +43,5 @@ k:123, j:(a,b,c,3)
 
 ```
 # map inner array
-1,word,(k:123,j:abc)
+1,word,(k:123, j:abc)
 ```
