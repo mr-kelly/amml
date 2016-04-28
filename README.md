@@ -33,3 +33,15 @@ k:123, j:word, t:a sentence
 # AMML -> "k:123, j:word, t:a sentence"
 map_ = {"k":"123", "j":"word", "t":"sentence"}
 ```
+
+### Array & Map Mix
+
+```
+# array inner map
+k:123, j:(a,b,c,3)
+```
+
+```
+# map inner array
+1,word,(k:123,j:abc)
+```
