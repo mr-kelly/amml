@@ -1,5 +1,5 @@
 # AMML
-Array &amp; Map 's Markup Language, can be dead simple to parse into array and map(hashtable, dictionary).
+Array &amp; Map 's Markup Language, can be dead simple parsed into array and map(hashtable, dictionary).
 
 ## Features
 
