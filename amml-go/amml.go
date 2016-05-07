@@ -7,6 +7,7 @@ type Amml struct {
 	//map_result map[string]interface{}
 }
 
+// Auto get result,  array or map
 func (this *Amml) GetResult() interface{}{
 	return this.array_result
 }
