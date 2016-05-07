@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;amml-go&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.." />
+      <root url="file://$PROJECT_DIR$/../../../../bitbucket.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../OneOfOne/xxhash/.vscode" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../OneOfOne/xxhash/.git" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+    </excluded>
+  </library>
+</component>
